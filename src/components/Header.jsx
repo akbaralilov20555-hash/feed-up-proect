@@ -75,7 +75,7 @@ export default function Header({ cartItems = [], onAddToCart }) {
           </a>
           <nav className="flex items-center gap-6 ml-8">
             <Link to="/bizhaqimizda" className="text-sm text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
-              О нас
+              О 'нас
             </Link>
             <Link to="/menyu" className="text-sm text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
               Меню

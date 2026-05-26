@@ -21,7 +21,7 @@ export default function Footer() {
             <img src={logo2} alt="Feed Up" className="h-16 w-auto" />
           </a>
           <p className="text-sm text-gray-500 dark:text-gray-400 leading-relaxed">
-            Feed Up – ведущая сеть ресторанов быстрого питания в Узбекистане, которая радует жителей страны свежими и вкусными блюдами уже более 13 лет
+            Feed U-p – ведущая сеть ресторанов быстрого питания в Узбекистане, которая радует жителей страны свежими и вкусными блюдами уже более 13 лет
           </p>
           {/* App store va Google Play — o'zing rasm qo'yasan */}
           <div className="flex gap-3 mt-2">
